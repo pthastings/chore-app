@@ -5,6 +5,7 @@ export const sampleTeamMembers: TeamMember[] = [
   { id: 'tm2', name: 'Bob', color: '#2196F3' },
   { id: 'tm3', name: 'Carol', color: '#4CAF50' },
   { id: 'tm4', name: 'Dave', color: '#FF9800' },
+  { id: 'tm5', name: 'Edward', color: '#9C27B0' },
 ]
 
 export const sampleChores: Chore[] = [
